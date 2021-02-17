@@ -1,6 +1,6 @@
 /*
 
-VIRTUAL FUNCTION
+VIRTUAL FUNCTION(https://www.geeksforgeeks.org/virtual-functions-and-runtime-polymorphism-in-c-set-1-introduction/)
     
     -like abstract fun
     -can have body
